@@ -28,7 +28,7 @@ const deletedata = (id) => {
 }
 
 export const getstatedata = () => {
-    return()=>{
+    return()=>{ 
         getdata()
     }
 }
